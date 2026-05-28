@@ -1,0 +1,30 @@
+nav {
+  background-color: rgb(88, 70, 31);    
+}
+
+#Img-presentacion img {
+    filter: brightness(50%);
+}
+
+#Seleccion_De_Productos {
+    border: 2px;
+    border-color: white;
+    border-style: solid; 
+}
+
+.Cartas-Categorias {
+    background:rgb(88, 70, 31);
+}
+
+#carta-abajo {
+    overflow:hidden;
+    background:rgb(88, 70, 31);
+}
+
+#Logos-carrusel{
+    background-color: black;
+}
+.items {
+    background-color: #d9d9d9;
+    border-radius: 50%;
+}
